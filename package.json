@@ -19,6 +19,7 @@
     "@mui/x-date-pickers": "^5.0.0-alpha.5",
     "@react-pdf-viewer/core": "^2.4.1",
     "@react-pdf-viewer/default-layout": "^3.3.2",
+    "@syncfusion/ej2-react-calendars": "^20.1.58",
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.1.1",
     "@testing-library/user-event": "^13.5.0",
@@ -28,11 +29,13 @@
     "pdfjs-dist": "^2.6.347",
     "radium": "^0.26.2",
     "react": "^18.1.0",
+    "react-datepicker": "^4.8.0",
     "react-doc-viewer": "^0.1.5",
     "react-dom": "^18.1.0",
     "react-hooks-lib": "^0.6.0",
     "react-responsive": "^9.0.0-beta.8",
     "react-router-dom": "5",
+    "react-script-tag": "^1.1.2",
     "react-scripts": "^5.0.1",
     "styled-components": "^5.3.5",
     "web-vitals": "^2.1.4"
@@ -63,6 +66,7 @@
   },
   "devDependencies": {
     "autoprefixer": "^10.4.7",
+    "css-loader": "^6.7.1",
     "postcss": "^8.4.13",
     "tailwindcss": "^3.0.24"
   }
